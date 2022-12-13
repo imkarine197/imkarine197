@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Karine Araújo.
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando HTML,CSS e JavaScript
+- 🔭 Quero trabalhar com front-end
+- 🌱 Estudando HTML,CSS e JavaScript 
 - 😄 Pronouns: ela/dela
 
 <div>
