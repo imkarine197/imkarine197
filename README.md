@@ -1,4 +1,4 @@
-## Olá! Eu sou a Karine Araújo.
+## Oiii, eu sou a Karine Araújo! 
 
 - 🔭 Quero trabalhar com front-end
 - 🌱 Estudando HTML,CSS e JavaScript 
