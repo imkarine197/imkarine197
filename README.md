@@ -1,6 +1,6 @@
 ## Oiii, eu sou a Karine Araújo! 
 
-- 🔭 Quero trabalhar com front-end
+- 🔭 Futura desenvolvedora 
 - 🌱 Estudando HTML,CSS e JavaScript 
 - 😄 Pronouns: ela/dela
 
