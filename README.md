@@ -1,8 +1,7 @@
 ## Oiii, eu sou a Karine Araújo! 
 
-- 🔭 Estudante de desenvolvimento e de DevOps
-- 🌱 Estudando HTML,CSS,JavaScript,Git, Azure e muito mais
-- 😄 Pronouns: ela/dela
+- 🔭 Estudante de desenvolvimento e de DevOps;
+- 🌱 Estudando HTML,CSS,JavaScript,Git, Azure e muito mais.
 
 <div align="center">
   <a href="https://github.com/imkarine197">
