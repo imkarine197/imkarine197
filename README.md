@@ -1,4 +1,4 @@
-## Oiii, eu sou a Karine Araújo! 
+## Hi, my name is Karine! 
 
 - 🔭 Estudante de desenvolvimento e de DevOps;
 - 🌱 Estudando HTML,CSS,JavaScript,Git, Azure e muito mais.
