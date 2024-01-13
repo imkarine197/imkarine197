@@ -1,6 +1,6 @@
 ## Oiii, eu sou a Karine Araújo! 
 
-- 🔭 Futura desenvolvedora 
+- 🔭 Futura desenvolvedora e DevOps
 - 🌱 Estudando HTML,CSS e JavaScript 
 - 😄 Pronouns: ela/dela
 
