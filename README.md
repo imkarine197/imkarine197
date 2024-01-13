@@ -1,5 +1,6 @@
 ## Hi, my name is Karine! 
 
+- Perfil em construção... :hammer::wrench:
 - 🔭 Estudante de desenvolvimento e de DevOps;
 - 🌱 Estudando HTML,CSS,JavaScript,Git, Azure e muito mais.
 
